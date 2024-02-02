@@ -1,0 +1,13 @@
+{
+    "refreshPage": "Refresh Weather",
+    "myNotes":  "My Notes",
+    "settings":  "Settings",
+    "notes": "Notes",
+    "createNote":  "Create Note",
+    "noteTitle": "Title",
+    "noteContent": "Description",
+    "cancelNote": "Cancel",
+    "submitNote": "Submit",
+    "darkMode":  "Dark Mode",
+    "languagePick": "Language"
+ }

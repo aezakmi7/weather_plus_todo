@@ -1,0 +1,13 @@
+{
+    "refreshPage": "Оновити",
+    "myNotes":  "Мої нотатки",
+    "settings":  "Налаштування",
+    "notes": "Нотатки",
+    "createNote":  "Створити нотатку",
+    "noteTitle": "Назва",
+    "noteContent": "Опис",
+    "cancelNote": "Відміна",
+    "submitNote": "Створити",
+    "darkMode":  "Темне оформлення",
+    "languagePick": "Мова"
+}
