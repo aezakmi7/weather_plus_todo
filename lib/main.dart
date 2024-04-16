@@ -32,6 +32,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       localizationsDelegates: AppLocalizations.localizationsDelegates,
       supportedLocales: AppLocalizations.supportedLocales,
+      locale: Locale('uk'),
       debugShowCheckedModeBanner: false,
       home: WeatherPage(),
       theme: Provider.of<ThemeProvider>(context).themeData,
